@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListFragment</string>
+    <string-array name="Planets">
+        <item>Layout 1</item>
+        <item>Layout 2</item>
+        <item>Layout 3</item>
+        <item>Layout 4</item>
+
+    </string-array>
+
+</resources>
